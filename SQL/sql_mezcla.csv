@@ -1,0 +1,676 @@
+total,año,paro,facultad,universidadtipo,formato,tasa,genero
+59.1525,2015-2016,4725.0,"Ciencias Sociales y Jurídicas",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,4725.0,"Ciencias Sociales y Jurídicas",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,4725.0,"Ciencias Sociales y Jurídicas",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,4474.0,"Ciencias Sociales y Jurídicas",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,4474.0,"Ciencias Sociales y Jurídicas",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,4474.0,"Ciencias Sociales y Jurídicas",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,4831.0,"Ciencias Sociales y Jurídicas",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,4831.0,"Ciencias Sociales y Jurídicas",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,4831.0,"Ciencias Sociales y Jurídicas",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,4742.0,"Ciencias Sociales y Jurídicas",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,4742.0,"Ciencias Sociales y Jurídicas",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,4742.0,"Ciencias Sociales y Jurídicas",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,1395.0,"Ciencias Sociales y Jurídicas",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,1395.0,"Ciencias Sociales y Jurídicas",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,1395.0,"Ciencias Sociales y Jurídicas",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,1335.0,"Ingeniería y Arquitectura",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,1335.0,"Ingeniería y Arquitectura",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,1335.0,"Ingeniería y Arquitectura",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,1298.0,"Ingeniería y Arquitectura",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,1298.0,"Ingeniería y Arquitectura",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,1298.0,"Ingeniería y Arquitectura",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,1244.0,"Ingeniería y Arquitectura",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,1244.0,"Ingeniería y Arquitectura",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,1244.0,"Ingeniería y Arquitectura",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,1393.0,"Ingeniería y Arquitectura",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,1393.0,"Ingeniería y Arquitectura",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,1393.0,"Ingeniería y Arquitectura",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,896.0,"Ingeniería y Arquitectura",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,896.0,"Ingeniería y Arquitectura",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,896.0,"Ingeniería y Arquitectura",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,913.0,"Artes y Humanidades",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,913.0,"Artes y Humanidades",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,913.0,"Artes y Humanidades",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,789.0,"Artes y Humanidades",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,789.0,"Artes y Humanidades",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,789.0,"Artes y Humanidades",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,840.0,"Artes y Humanidades",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,840.0,"Artes y Humanidades",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,840.0,"Artes y Humanidades",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,758.0,"Artes y Humanidades",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,758.0,"Artes y Humanidades",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,758.0,"Artes y Humanidades",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,2255.0,"Artes y Humanidades",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,2255.0,"Artes y Humanidades",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,2255.0,"Artes y Humanidades",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,2461.0,"Ciencias de la Salud",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,2461.0,"Ciencias de la Salud",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,2461.0,"Ciencias de la Salud",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,2387.0,"Ciencias de la Salud",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,2387.0,"Ciencias de la Salud",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,2387.0,"Ciencias de la Salud",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,2551.0,"Ciencias de la Salud",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,2551.0,"Ciencias de la Salud",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,2551.0,"Ciencias de la Salud",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,2665.0,"Ciencias de la Salud",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,2665.0,"Ciencias de la Salud",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,2665.0,"Ciencias de la Salud",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,650.0,"Ciencias de la Salud",ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,650.0,"Ciencias de la Salud",ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,650.0,"Ciencias de la Salud",ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,698.0,Ciencias,ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,698.0,Ciencias,ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,698.0,Ciencias,ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,689.0,Ciencias,ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,689.0,Ciencias,ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,689.0,Ciencias,ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,717.0,Ciencias,ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,717.0,Ciencias,ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,717.0,Ciencias,ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,625.0,Ciencias,ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,625.0,Ciencias,ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,625.0,Ciencias,ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,-,Ciencias,ambas,ambos_formatos,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,-,Ciencias,ambas,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,-,Ciencias,ambas,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,4725.0,"Ciencias Sociales y Jurídicas",ambas,presencial,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,4725.0,"Ciencias Sociales y Jurídicas",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,4725.0,"Ciencias Sociales y Jurídicas",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,4474.0,"Ciencias Sociales y Jurídicas",ambas,presencial,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,4474.0,"Ciencias Sociales y Jurídicas",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,4474.0,"Ciencias Sociales y Jurídicas",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,4831.0,"Ciencias Sociales y Jurídicas",ambas,presencial,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,4831.0,"Ciencias Sociales y Jurídicas",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,4831.0,"Ciencias Sociales y Jurídicas",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,4742.0,"Ciencias Sociales y Jurídicas",ambas,presencial,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,4742.0,"Ciencias Sociales y Jurídicas",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,4742.0,"Ciencias Sociales y Jurídicas",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,1395.0,"Ciencias Sociales y Jurídicas",ambas,presencial,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,1395.0,"Ciencias Sociales y Jurídicas",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,1395.0,"Ciencias Sociales y Jurídicas",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,1335.0,"Ingeniería y Arquitectura",ambas,presencial,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,1335.0,"Ingeniería y Arquitectura",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,1335.0,"Ingeniería y Arquitectura",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,1298.0,"Ingeniería y Arquitectura",ambas,presencial,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,1298.0,"Ingeniería y Arquitectura",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,1298.0,"Ingeniería y Arquitectura",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,1244.0,"Ingeniería y Arquitectura",ambas,presencial,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,1244.0,"Ingeniería y Arquitectura",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,1244.0,"Ingeniería y Arquitectura",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,1393.0,"Ingeniería y Arquitectura",ambas,presencial,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,1393.0,"Ingeniería y Arquitectura",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,1393.0,"Ingeniería y Arquitectura",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,896.0,"Ingeniería y Arquitectura",ambas,presencial,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,896.0,"Ingeniería y Arquitectura",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,896.0,"Ingeniería y Arquitectura",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,913.0,"Artes y Humanidades",ambas,presencial,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,913.0,"Artes y Humanidades",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,913.0,"Artes y Humanidades",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,789.0,"Artes y Humanidades",ambas,presencial,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,789.0,"Artes y Humanidades",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,789.0,"Artes y Humanidades",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,840.0,"Artes y Humanidades",ambas,presencial,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,840.0,"Artes y Humanidades",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,840.0,"Artes y Humanidades",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,758.0,"Artes y Humanidades",ambas,presencial,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,758.0,"Artes y Humanidades",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,758.0,"Artes y Humanidades",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,2255.0,"Artes y Humanidades",ambas,presencial,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,2255.0,"Artes y Humanidades",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,2255.0,"Artes y Humanidades",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,2461.0,"Ciencias de la Salud",ambas,presencial,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,2461.0,"Ciencias de la Salud",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,2461.0,"Ciencias de la Salud",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,2387.0,"Ciencias de la Salud",ambas,presencial,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,2387.0,"Ciencias de la Salud",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,2387.0,"Ciencias de la Salud",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,2551.0,"Ciencias de la Salud",ambas,presencial,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,2551.0,"Ciencias de la Salud",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,2551.0,"Ciencias de la Salud",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,2665.0,"Ciencias de la Salud",ambas,presencial,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,2665.0,"Ciencias de la Salud",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,2665.0,"Ciencias de la Salud",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,650.0,"Ciencias de la Salud",ambas,presencial,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,650.0,"Ciencias de la Salud",ambas,presencial,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,650.0,"Ciencias de la Salud",ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,698.0,Ciencias,ambas,presencial,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,698.0,Ciencias,ambas,presencial,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,698.0,Ciencias,ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,689.0,Ciencias,ambas,presencial,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,689.0,Ciencias,ambas,presencial,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,689.0,Ciencias,ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,717.0,Ciencias,ambas,presencial,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,717.0,Ciencias,ambas,presencial,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,717.0,Ciencias,ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,625.0,Ciencias,ambas,presencial,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,625.0,Ciencias,ambas,presencial,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,625.0,Ciencias,ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,-,Ciencias,ambas,presencial,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,-,Ciencias,ambas,presencial,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,-,Ciencias,ambas,presencial,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,0.0,"Ciencias Sociales y Jurídicas",ambas,online,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,0.0,"Ciencias Sociales y Jurídicas",ambas,online,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,0.0,"Ciencias Sociales y Jurídicas",ambas,online,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,0.0,"Ciencias Sociales y Jurídicas",ambas,online,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,0.0,"Ciencias Sociales y Jurídicas",ambas,online,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,0.0,"Ciencias Sociales y Jurídicas",ambas,online,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,0.0,"Ciencias Sociales y Jurídicas",ambas,online,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,0.0,"Ciencias Sociales y Jurídicas",ambas,online,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,0.0,"Ciencias Sociales y Jurídicas",ambas,online,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,0.0,"Ciencias Sociales y Jurídicas",ambas,online,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,0.0,"Ciencias Sociales y Jurídicas",ambas,online,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,0.0,"Ciencias Sociales y Jurídicas",ambas,online,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,0.0,"Ciencias Sociales y Jurídicas",ambas,online,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,0.0,"Ciencias Sociales y Jurídicas",ambas,online,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,0.0,"Ciencias Sociales y Jurídicas",ambas,online,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,0.0,"Ingeniería y Arquitectura",ambas,online,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,0.0,"Ingeniería y Arquitectura",ambas,online,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,0.0,"Ingeniería y Arquitectura",ambas,online,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,0.0,"Ingeniería y Arquitectura",ambas,online,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,0.0,"Ingeniería y Arquitectura",ambas,online,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,0.0,"Ingeniería y Arquitectura",ambas,online,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,0.0,"Ingeniería y Arquitectura",ambas,online,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,0.0,"Ingeniería y Arquitectura",ambas,online,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,0.0,"Ingeniería y Arquitectura",ambas,online,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,0.0,"Ingeniería y Arquitectura",ambas,online,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,0.0,"Ingeniería y Arquitectura",ambas,online,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,0.0,"Ingeniería y Arquitectura",ambas,online,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,0.0,"Ingeniería y Arquitectura",ambas,online,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,0.0,"Ingeniería y Arquitectura",ambas,online,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,0.0,"Ingeniería y Arquitectura",ambas,online,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,0.0,"Artes y Humanidades",ambas,online,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,0.0,"Artes y Humanidades",ambas,online,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,0.0,"Artes y Humanidades",ambas,online,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,0.0,"Artes y Humanidades",ambas,online,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,0.0,"Artes y Humanidades",ambas,online,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,0.0,"Artes y Humanidades",ambas,online,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,0.0,"Artes y Humanidades",ambas,online,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,0.0,"Artes y Humanidades",ambas,online,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,0.0,"Artes y Humanidades",ambas,online,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,0.0,"Artes y Humanidades",ambas,online,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,0.0,"Artes y Humanidades",ambas,online,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,0.0,"Artes y Humanidades",ambas,online,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,0.0,"Artes y Humanidades",ambas,online,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,0.0,"Artes y Humanidades",ambas,online,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,0.0,"Artes y Humanidades",ambas,online,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,0.0,"Ciencias de la Salud",ambas,online,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,0.0,"Ciencias de la Salud",ambas,online,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,0.0,"Ciencias de la Salud",ambas,online,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,0.0,"Ciencias de la Salud",ambas,online,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,0.0,"Ciencias de la Salud",ambas,online,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,0.0,"Ciencias de la Salud",ambas,online,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,0.0,"Ciencias de la Salud",ambas,online,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,0.0,"Ciencias de la Salud",ambas,online,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,0.0,"Ciencias de la Salud",ambas,online,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,0.0,"Ciencias de la Salud",ambas,online,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,0.0,"Ciencias de la Salud",ambas,online,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,0.0,"Ciencias de la Salud",ambas,online,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,0.0,"Ciencias de la Salud",ambas,online,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,0.0,"Ciencias de la Salud",ambas,online,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,0.0,"Ciencias de la Salud",ambas,online,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,0.0,Ciencias,ambas,online,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,0.0,Ciencias,ambas,online,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,0.0,Ciencias,ambas,online,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,0.0,Ciencias,ambas,online,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,0.0,Ciencias,ambas,online,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,0.0,Ciencias,ambas,online,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,0.0,Ciencias,ambas,online,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,0.0,Ciencias,ambas,online,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,0.0,Ciencias,ambas,online,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,0.0,Ciencias,ambas,online,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,0.0,Ciencias,ambas,online,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,0.0,Ciencias,ambas,online,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,-,Ciencias,ambas,online,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,-,Ciencias,ambas,online,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,-,Ciencias,ambas,online,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,3419.0,"Ciencias Sociales y Jurídicas",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,3419.0,"Ciencias Sociales y Jurídicas",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,3419.0,"Ciencias Sociales y Jurídicas",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,3281.0,"Ciencias Sociales y Jurídicas",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,3281.0,"Ciencias Sociales y Jurídicas",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,3281.0,"Ciencias Sociales y Jurídicas",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,3402.0,"Ciencias Sociales y Jurídicas",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,3402.0,"Ciencias Sociales y Jurídicas",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,3402.0,"Ciencias Sociales y Jurídicas",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,3249.0,"Ciencias Sociales y Jurídicas",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,3249.0,"Ciencias Sociales y Jurídicas",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,3249.0,"Ciencias Sociales y Jurídicas",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,1198.0,"Ciencias Sociales y Jurídicas",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,1198.0,"Ciencias Sociales y Jurídicas",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,1198.0,"Ciencias Sociales y Jurídicas",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,1133.0,"Ingeniería y Arquitectura",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,1133.0,"Ingeniería y Arquitectura",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,1133.0,"Ingeniería y Arquitectura",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,1078.0,"Ingeniería y Arquitectura",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,1078.0,"Ingeniería y Arquitectura",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,1078.0,"Ingeniería y Arquitectura",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,1049.0,"Ingeniería y Arquitectura",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,1049.0,"Ingeniería y Arquitectura",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,1049.0,"Ingeniería y Arquitectura",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,1131.0,"Ingeniería y Arquitectura",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,1131.0,"Ingeniería y Arquitectura",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,1131.0,"Ingeniería y Arquitectura",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,881.0,"Ingeniería y Arquitectura",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,881.0,"Ingeniería y Arquitectura",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,881.0,"Ingeniería y Arquitectura",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,897.0,"Artes y Humanidades",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,897.0,"Artes y Humanidades",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,897.0,"Artes y Humanidades",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,750.0,"Artes y Humanidades",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,750.0,"Artes y Humanidades",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,750.0,"Artes y Humanidades",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,818.0,"Artes y Humanidades",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,818.0,"Artes y Humanidades",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,818.0,"Artes y Humanidades",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,740.0,"Artes y Humanidades",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,740.0,"Artes y Humanidades",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,740.0,"Artes y Humanidades",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,1275.0,"Artes y Humanidades",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,1275.0,"Artes y Humanidades",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,1275.0,"Artes y Humanidades",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,1335.0,"Ciencias de la Salud",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,1335.0,"Ciencias de la Salud",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,1335.0,"Ciencias de la Salud",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,1309.0,"Ciencias de la Salud",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,1309.0,"Ciencias de la Salud",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,1309.0,"Ciencias de la Salud",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,1285.0,"Ciencias de la Salud",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,1285.0,"Ciencias de la Salud",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,1285.0,"Ciencias de la Salud",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,1195.0,"Ciencias de la Salud",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,1195.0,"Ciencias de la Salud",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,1195.0,"Ciencias de la Salud",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,625.0,"Ciencias de la Salud",publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,625.0,"Ciencias de la Salud",publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,625.0,"Ciencias de la Salud",publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,637.0,Ciencias,publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,637.0,Ciencias,publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,637.0,Ciencias,publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,616.0,Ciencias,publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,616.0,Ciencias,publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,616.0,Ciencias,publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,616.0,Ciencias,publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,616.0,Ciencias,publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,616.0,Ciencias,publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,569.0,Ciencias,publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,569.0,Ciencias,publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,569.0,Ciencias,publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,-,Ciencias,publica,ambos_formatos,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,-,Ciencias,publica,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,-,Ciencias,publica,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,3419.0,"Ciencias Sociales y Jurídicas",publica,presencial,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,3419.0,"Ciencias Sociales y Jurídicas",publica,presencial,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,3419.0,"Ciencias Sociales y Jurídicas",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,3281.0,"Ciencias Sociales y Jurídicas",publica,presencial,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,3281.0,"Ciencias Sociales y Jurídicas",publica,presencial,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,3281.0,"Ciencias Sociales y Jurídicas",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,3402.0,"Ciencias Sociales y Jurídicas",publica,presencial,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,3402.0,"Ciencias Sociales y Jurídicas",publica,presencial,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,3402.0,"Ciencias Sociales y Jurídicas",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,3249.0,"Ciencias Sociales y Jurídicas",publica,presencial,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,3249.0,"Ciencias Sociales y Jurídicas",publica,presencial,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,3249.0,"Ciencias Sociales y Jurídicas",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,1198.0,"Ciencias Sociales y Jurídicas",publica,presencial,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,1198.0,"Ciencias Sociales y Jurídicas",publica,presencial,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,1198.0,"Ciencias Sociales y Jurídicas",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,1133.0,"Ingeniería y Arquitectura",publica,presencial,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,1133.0,"Ingeniería y Arquitectura",publica,presencial,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,1133.0,"Ingeniería y Arquitectura",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,1078.0,"Ingeniería y Arquitectura",publica,presencial,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,1078.0,"Ingeniería y Arquitectura",publica,presencial,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,1078.0,"Ingeniería y Arquitectura",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,1049.0,"Ingeniería y Arquitectura",publica,presencial,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,1049.0,"Ingeniería y Arquitectura",publica,presencial,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,1049.0,"Ingeniería y Arquitectura",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,1131.0,"Ingeniería y Arquitectura",publica,presencial,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,1131.0,"Ingeniería y Arquitectura",publica,presencial,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,1131.0,"Ingeniería y Arquitectura",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,881.0,"Ingeniería y Arquitectura",publica,presencial,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,881.0,"Ingeniería y Arquitectura",publica,presencial,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,881.0,"Ingeniería y Arquitectura",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,897.0,"Artes y Humanidades",publica,presencial,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,897.0,"Artes y Humanidades",publica,presencial,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,897.0,"Artes y Humanidades",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,750.0,"Artes y Humanidades",publica,presencial,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,750.0,"Artes y Humanidades",publica,presencial,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,750.0,"Artes y Humanidades",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,818.0,"Artes y Humanidades",publica,presencial,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,818.0,"Artes y Humanidades",publica,presencial,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,818.0,"Artes y Humanidades",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,740.0,"Artes y Humanidades",publica,presencial,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,740.0,"Artes y Humanidades",publica,presencial,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,740.0,"Artes y Humanidades",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,1275.0,"Artes y Humanidades",publica,presencial,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,1275.0,"Artes y Humanidades",publica,presencial,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,1275.0,"Artes y Humanidades",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,1335.0,"Ciencias de la Salud",publica,presencial,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,1335.0,"Ciencias de la Salud",publica,presencial,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,1335.0,"Ciencias de la Salud",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,1309.0,"Ciencias de la Salud",publica,presencial,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,1309.0,"Ciencias de la Salud",publica,presencial,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,1309.0,"Ciencias de la Salud",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,1285.0,"Ciencias de la Salud",publica,presencial,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,1285.0,"Ciencias de la Salud",publica,presencial,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,1285.0,"Ciencias de la Salud",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,1195.0,"Ciencias de la Salud",publica,presencial,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,1195.0,"Ciencias de la Salud",publica,presencial,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,1195.0,"Ciencias de la Salud",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,625.0,"Ciencias de la Salud",publica,presencial,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,625.0,"Ciencias de la Salud",publica,presencial,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,625.0,"Ciencias de la Salud",publica,presencial,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,637.0,Ciencias,publica,presencial,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,637.0,Ciencias,publica,presencial,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,637.0,Ciencias,publica,presencial,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,616.0,Ciencias,publica,presencial,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,616.0,Ciencias,publica,presencial,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,616.0,Ciencias,publica,presencial,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,616.0,Ciencias,publica,presencial,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,616.0,Ciencias,publica,presencial,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,616.0,Ciencias,publica,presencial,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,569.0,Ciencias,publica,presencial,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,569.0,Ciencias,publica,presencial,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,569.0,Ciencias,publica,presencial,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,-,Ciencias,publica,presencial,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,-,Ciencias,publica,presencial,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,-,Ciencias,publica,presencial,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,0.0,"Ciencias Sociales y Jurídicas",publica,online,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,0.0,"Ciencias Sociales y Jurídicas",publica,online,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,0.0,"Ciencias Sociales y Jurídicas",publica,online,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,0.0,"Ciencias Sociales y Jurídicas",publica,online,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,0.0,"Ciencias Sociales y Jurídicas",publica,online,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,0.0,"Ciencias Sociales y Jurídicas",publica,online,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,0.0,"Ciencias Sociales y Jurídicas",publica,online,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,0.0,"Ciencias Sociales y Jurídicas",publica,online,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,0.0,"Ciencias Sociales y Jurídicas",publica,online,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,0.0,"Ciencias Sociales y Jurídicas",publica,online,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,0.0,"Ciencias Sociales y Jurídicas",publica,online,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,0.0,"Ciencias Sociales y Jurídicas",publica,online,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,0.0,"Ciencias Sociales y Jurídicas",publica,online,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,0.0,"Ciencias Sociales y Jurídicas",publica,online,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,0.0,"Ciencias Sociales y Jurídicas",publica,online,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,0.0,"Ingeniería y Arquitectura",publica,online,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,0.0,"Ingeniería y Arquitectura",publica,online,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,0.0,"Ingeniería y Arquitectura",publica,online,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,0.0,"Ingeniería y Arquitectura",publica,online,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,0.0,"Ingeniería y Arquitectura",publica,online,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,0.0,"Ingeniería y Arquitectura",publica,online,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,0.0,"Ingeniería y Arquitectura",publica,online,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,0.0,"Ingeniería y Arquitectura",publica,online,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,0.0,"Ingeniería y Arquitectura",publica,online,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,0.0,"Ingeniería y Arquitectura",publica,online,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,0.0,"Ingeniería y Arquitectura",publica,online,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,0.0,"Ingeniería y Arquitectura",publica,online,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,0.0,"Ingeniería y Arquitectura",publica,online,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,0.0,"Ingeniería y Arquitectura",publica,online,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,0.0,"Ingeniería y Arquitectura",publica,online,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,0.0,"Artes y Humanidades",publica,online,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,0.0,"Artes y Humanidades",publica,online,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,0.0,"Artes y Humanidades",publica,online,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,0.0,"Artes y Humanidades",publica,online,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,0.0,"Artes y Humanidades",publica,online,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,0.0,"Artes y Humanidades",publica,online,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,0.0,"Artes y Humanidades",publica,online,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,0.0,"Artes y Humanidades",publica,online,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,0.0,"Artes y Humanidades",publica,online,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,0.0,"Artes y Humanidades",publica,online,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,0.0,"Artes y Humanidades",publica,online,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,0.0,"Artes y Humanidades",publica,online,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,0.0,"Artes y Humanidades",publica,online,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,0.0,"Artes y Humanidades",publica,online,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,0.0,"Artes y Humanidades",publica,online,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,0.0,"Ciencias de la Salud",publica,online,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,0.0,"Ciencias de la Salud",publica,online,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,0.0,"Ciencias de la Salud",publica,online,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,0.0,"Ciencias de la Salud",publica,online,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,0.0,"Ciencias de la Salud",publica,online,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,0.0,"Ciencias de la Salud",publica,online,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,0.0,"Ciencias de la Salud",publica,online,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,0.0,"Ciencias de la Salud",publica,online,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,0.0,"Ciencias de la Salud",publica,online,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,0.0,"Ciencias de la Salud",publica,online,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,0.0,"Ciencias de la Salud",publica,online,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,0.0,"Ciencias de la Salud",publica,online,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,0.0,"Ciencias de la Salud",publica,online,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,0.0,"Ciencias de la Salud",publica,online,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,0.0,"Ciencias de la Salud",publica,online,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,0.0,Ciencias,publica,online,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,0.0,Ciencias,publica,online,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,0.0,Ciencias,publica,online,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,0.0,Ciencias,publica,online,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,0.0,Ciencias,publica,online,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,0.0,Ciencias,publica,online,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,0.0,Ciencias,publica,online,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,0.0,Ciencias,publica,online,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,0.0,Ciencias,publica,online,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,0.0,Ciencias,publica,online,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,0.0,Ciencias,publica,online,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,0.0,Ciencias,publica,online,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,-,Ciencias,publica,online,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,-,Ciencias,publica,online,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,-,Ciencias,publica,online,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,1306.0,"Ciencias Sociales y Jurídicas",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,1306.0,"Ciencias Sociales y Jurídicas",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,1306.0,"Ciencias Sociales y Jurídicas",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,1193.0,"Ciencias Sociales y Jurídicas",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,1193.0,"Ciencias Sociales y Jurídicas",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,1193.0,"Ciencias Sociales y Jurídicas",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,1429.0,"Ciencias Sociales y Jurídicas",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,1429.0,"Ciencias Sociales y Jurídicas",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,1429.0,"Ciencias Sociales y Jurídicas",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,1493.0,"Ciencias Sociales y Jurídicas",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,1493.0,"Ciencias Sociales y Jurídicas",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,1493.0,"Ciencias Sociales y Jurídicas",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,197.0,"Ciencias Sociales y Jurídicas",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,197.0,"Ciencias Sociales y Jurídicas",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,197.0,"Ciencias Sociales y Jurídicas",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,202.0,"Ingeniería y Arquitectura",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,202.0,"Ingeniería y Arquitectura",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,202.0,"Ingeniería y Arquitectura",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,220.0,"Ingeniería y Arquitectura",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,220.0,"Ingeniería y Arquitectura",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,220.0,"Ingeniería y Arquitectura",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,195.0,"Ingeniería y Arquitectura",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,195.0,"Ingeniería y Arquitectura",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,195.0,"Ingeniería y Arquitectura",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,262.0,"Ingeniería y Arquitectura",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,262.0,"Ingeniería y Arquitectura",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,262.0,"Ingeniería y Arquitectura",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,15.0,"Ingeniería y Arquitectura",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,15.0,"Ingeniería y Arquitectura",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,15.0,"Ingeniería y Arquitectura",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,16.0,"Artes y Humanidades",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,16.0,"Artes y Humanidades",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,16.0,"Artes y Humanidades",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,39.0,"Artes y Humanidades",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,39.0,"Artes y Humanidades",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,39.0,"Artes y Humanidades",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,22.0,"Artes y Humanidades",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,22.0,"Artes y Humanidades",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,22.0,"Artes y Humanidades",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,18.0,"Artes y Humanidades",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,18.0,"Artes y Humanidades",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,18.0,"Artes y Humanidades",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,980.0,"Artes y Humanidades",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,980.0,"Artes y Humanidades",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,980.0,"Artes y Humanidades",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,1126.0,"Ciencias de la Salud",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,1126.0,"Ciencias de la Salud",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,1126.0,"Ciencias de la Salud",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,1078.0,"Ciencias de la Salud",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,1078.0,"Ciencias de la Salud",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,1078.0,"Ciencias de la Salud",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,1266.0,"Ciencias de la Salud",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,1266.0,"Ciencias de la Salud",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,1266.0,"Ciencias de la Salud",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,1470.0,"Ciencias de la Salud",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,1470.0,"Ciencias de la Salud",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,1470.0,"Ciencias de la Salud",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,25.0,"Ciencias de la Salud",privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,25.0,"Ciencias de la Salud",privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,25.0,"Ciencias de la Salud",privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,61.0,Ciencias,privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,61.0,Ciencias,privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,61.0,Ciencias,privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,73.0,Ciencias,privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,73.0,Ciencias,privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,73.0,Ciencias,privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,101.0,Ciencias,privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,101.0,Ciencias,privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,101.0,Ciencias,privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,56.0,Ciencias,privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,56.0,Ciencias,privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,56.0,Ciencias,privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,-,Ciencias,privada,ambos_formatos,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,-,Ciencias,privada,ambos_formatos,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,-,Ciencias,privada,ambos_formatos,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,1306.0,"Ciencias Sociales y Jurídicas",privada,presencial,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,1306.0,"Ciencias Sociales y Jurídicas",privada,presencial,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,1306.0,"Ciencias Sociales y Jurídicas",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,1193.0,"Ciencias Sociales y Jurídicas",privada,presencial,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,1193.0,"Ciencias Sociales y Jurídicas",privada,presencial,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,1193.0,"Ciencias Sociales y Jurídicas",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,1429.0,"Ciencias Sociales y Jurídicas",privada,presencial,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,1429.0,"Ciencias Sociales y Jurídicas",privada,presencial,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,1429.0,"Ciencias Sociales y Jurídicas",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,1493.0,"Ciencias Sociales y Jurídicas",privada,presencial,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,1493.0,"Ciencias Sociales y Jurídicas",privada,presencial,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,1493.0,"Ciencias Sociales y Jurídicas",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,197.0,"Ciencias Sociales y Jurídicas",privada,presencial,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,197.0,"Ciencias Sociales y Jurídicas",privada,presencial,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,197.0,"Ciencias Sociales y Jurídicas",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,202.0,"Ingeniería y Arquitectura",privada,presencial,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,202.0,"Ingeniería y Arquitectura",privada,presencial,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,202.0,"Ingeniería y Arquitectura",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,220.0,"Ingeniería y Arquitectura",privada,presencial,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,220.0,"Ingeniería y Arquitectura",privada,presencial,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,220.0,"Ingeniería y Arquitectura",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,195.0,"Ingeniería y Arquitectura",privada,presencial,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,195.0,"Ingeniería y Arquitectura",privada,presencial,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,195.0,"Ingeniería y Arquitectura",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,262.0,"Ingeniería y Arquitectura",privada,presencial,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,262.0,"Ingeniería y Arquitectura",privada,presencial,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,262.0,"Ingeniería y Arquitectura",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,15.0,"Ingeniería y Arquitectura",privada,presencial,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,15.0,"Ingeniería y Arquitectura",privada,presencial,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,15.0,"Ingeniería y Arquitectura",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,16.0,"Artes y Humanidades",privada,presencial,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,16.0,"Artes y Humanidades",privada,presencial,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,16.0,"Artes y Humanidades",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,39.0,"Artes y Humanidades",privada,presencial,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,39.0,"Artes y Humanidades",privada,presencial,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,39.0,"Artes y Humanidades",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,22.0,"Artes y Humanidades",privada,presencial,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,22.0,"Artes y Humanidades",privada,presencial,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,22.0,"Artes y Humanidades",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,18.0,"Artes y Humanidades",privada,presencial,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,18.0,"Artes y Humanidades",privada,presencial,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,18.0,"Artes y Humanidades",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,980.0,"Artes y Humanidades",privada,presencial,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,980.0,"Artes y Humanidades",privada,presencial,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,980.0,"Artes y Humanidades",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,1126.0,"Ciencias de la Salud",privada,presencial,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,1126.0,"Ciencias de la Salud",privada,presencial,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,1126.0,"Ciencias de la Salud",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,1078.0,"Ciencias de la Salud",privada,presencial,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,1078.0,"Ciencias de la Salud",privada,presencial,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,1078.0,"Ciencias de la Salud",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,1266.0,"Ciencias de la Salud",privada,presencial,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,1266.0,"Ciencias de la Salud",privada,presencial,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,1266.0,"Ciencias de la Salud",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,1470.0,"Ciencias de la Salud",privada,presencial,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,1470.0,"Ciencias de la Salud",privada,presencial,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,1470.0,"Ciencias de la Salud",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,25.0,"Ciencias de la Salud",privada,presencial,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,25.0,"Ciencias de la Salud",privada,presencial,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,25.0,"Ciencias de la Salud",privada,presencial,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,61.0,Ciencias,privada,presencial,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,61.0,Ciencias,privada,presencial,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,61.0,Ciencias,privada,presencial,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,73.0,Ciencias,privada,presencial,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,73.0,Ciencias,privada,presencial,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,73.0,Ciencias,privada,presencial,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,101.0,Ciencias,privada,presencial,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,101.0,Ciencias,privada,presencial,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,101.0,Ciencias,privada,presencial,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,56.0,Ciencias,privada,presencial,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,56.0,Ciencias,privada,presencial,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,56.0,Ciencias,privada,presencial,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,-,Ciencias,privada,presencial,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,-,Ciencias,privada,presencial,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,-,Ciencias,privada,presencial,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,0.0,"Ciencias Sociales y Jurídicas",privada,online,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,0.0,"Ciencias Sociales y Jurídicas",privada,online,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,0.0,"Ciencias Sociales y Jurídicas",privada,online,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,0.0,"Ciencias Sociales y Jurídicas",privada,online,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,0.0,"Ciencias Sociales y Jurídicas",privada,online,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,0.0,"Ciencias Sociales y Jurídicas",privada,online,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,0.0,"Ciencias Sociales y Jurídicas",privada,online,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,0.0,"Ciencias Sociales y Jurídicas",privada,online,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,0.0,"Ciencias Sociales y Jurídicas",privada,online,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,0.0,"Ciencias Sociales y Jurídicas",privada,online,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,0.0,"Ciencias Sociales y Jurídicas",privada,online,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,0.0,"Ciencias Sociales y Jurídicas",privada,online,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,0.0,"Ciencias Sociales y Jurídicas",privada,online,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,0.0,"Ciencias Sociales y Jurídicas",privada,online,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,0.0,"Ciencias Sociales y Jurídicas",privada,online,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,0.0,"Ingeniería y Arquitectura",privada,online,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,0.0,"Ingeniería y Arquitectura",privada,online,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,0.0,"Ingeniería y Arquitectura",privada,online,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,0.0,"Ingeniería y Arquitectura",privada,online,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,0.0,"Ingeniería y Arquitectura",privada,online,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,0.0,"Ingeniería y Arquitectura",privada,online,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,0.0,"Ingeniería y Arquitectura",privada,online,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,0.0,"Ingeniería y Arquitectura",privada,online,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,0.0,"Ingeniería y Arquitectura",privada,online,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,0.0,"Ingeniería y Arquitectura",privada,online,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,0.0,"Ingeniería y Arquitectura",privada,online,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,0.0,"Ingeniería y Arquitectura",privada,online,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,0.0,"Ingeniería y Arquitectura",privada,online,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,0.0,"Ingeniería y Arquitectura",privada,online,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,0.0,"Ingeniería y Arquitectura",privada,online,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,0.0,"Artes y Humanidades",privada,online,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,0.0,"Artes y Humanidades",privada,online,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,0.0,"Artes y Humanidades",privada,online,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,0.0,"Artes y Humanidades",privada,online,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,0.0,"Artes y Humanidades",privada,online,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,0.0,"Artes y Humanidades",privada,online,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,0.0,"Artes y Humanidades",privada,online,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,0.0,"Artes y Humanidades",privada,online,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,0.0,"Artes y Humanidades",privada,online,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,0.0,"Artes y Humanidades",privada,online,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,0.0,"Artes y Humanidades",privada,online,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,0.0,"Artes y Humanidades",privada,online,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,0.0,"Artes y Humanidades",privada,online,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,0.0,"Artes y Humanidades",privada,online,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,0.0,"Artes y Humanidades",privada,online,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,0.0,"Ciencias de la Salud",privada,online,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,0.0,"Ciencias de la Salud",privada,online,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,0.0,"Ciencias de la Salud",privada,online,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,0.0,"Ciencias de la Salud",privada,online,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,0.0,"Ciencias de la Salud",privada,online,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,0.0,"Ciencias de la Salud",privada,online,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,0.0,"Ciencias de la Salud",privada,online,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,0.0,"Ciencias de la Salud",privada,online,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,0.0,"Ciencias de la Salud",privada,online,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,0.0,"Ciencias de la Salud",privada,online,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,0.0,"Ciencias de la Salud",privada,online,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,0.0,"Ciencias de la Salud",privada,online,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,0.0,"Ciencias de la Salud",privada,online,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,0.0,"Ciencias de la Salud",privada,online,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,0.0,"Ciencias de la Salud",privada,online,"Tasa de empleo de la población",ambos_sexos
+59.1525,2015-2016,0.0,Ciencias,privada,online,"Tasa de actividad",ambos_sexos
+21.015,2015-2016,0.0,Ciencias,privada,online,"Tasa de paro de la población",ambos_sexos
+44.815,2015-2016,0.0,Ciencias,privada,online,"Tasa de empleo de la población",ambos_sexos
+59.36,2017-2018,0.0,Ciencias,privada,online,"Tasa de actividad",ambos_sexos
+17.1075,2017-2018,0.0,Ciencias,privada,online,"Tasa de paro de la población",ambos_sexos
+48.7875,2017-2018,0.0,Ciencias,privada,online,"Tasa de empleo de la población",ambos_sexos
+58.6525,2019-2020,0.0,Ciencias,privada,online,"Tasa de actividad",ambos_sexos
+16.3425,2019-2020,0.0,Ciencias,privada,online,"Tasa de paro de la población",ambos_sexos
+50.4425,2019-2020,0.0,Ciencias,privada,online,"Tasa de empleo de la población",ambos_sexos
+59.7925,2020-2021,0.0,Ciencias,privada,online,"Tasa de actividad",ambos_sexos
+14.9025,2020-2021,0.0,Ciencias,privada,online,"Tasa de paro de la población",ambos_sexos
+49.315,2020-2021,0.0,Ciencias,privada,online,"Tasa de empleo de la población",ambos_sexos
+60.2675,2021-2022,-,Ciencias,privada,online,"Tasa de actividad",ambos_sexos
+13.27,2021-2022,-,Ciencias,privada,online,"Tasa de paro de la población",ambos_sexos
+51.7125,2021-2022,-,Ciencias,privada,online,"Tasa de empleo de la población",ambos_sexos
