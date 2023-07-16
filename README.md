@@ -67,6 +67,34 @@ Carpeta de NOTEBOOKS
 2 selectividad
     2.0 dt_selectividad_murcia.csv Datos escrapeados y limpios
 
+
+# Vamos a entenderlo todo..
+Todo empezó con esta premisa.
+![](fotos/media_selectividad_fac_año.png)
+
+
+Tras todo el trabajo, lo primero que hacemos es ver que efectivamente las notas de corte de selectividad han incrementado en todas las facultades año tras año. Esto era lo que nos planteaba el articulo del principio. Pero que ha pasado para que ocurra semenjante locura 
+
+![](fotos/crecimiento porcentual selectividad.png)
+
+visto así no tiene sentido por eso vamos a ver si ha pasado algo con la oferta de plazas, un motivo claro de una posible subida de notas; a menos plazas y misma demanda de las mismas, mas competencia. 
+
+![](fotos/mat_hombres_año_facultad.png)
+![](fotos/mat_mujeres_año_facultad.png) 
+como vemos ni los hombres ni las mujeres han sufrido variaciones grandes año tras año. Y ya que tenemos estos datos delante, que curioso que las mujeres siempre superan a los hombres en todas las facultades menos en tecnología. 
+![](fotos/mat_media_facul_genero.png)
+
+y claro nos quedaría saber que ha pasado con el mercado laboral. Ha sufrido muchos cambios??
+Pues no. Ni el paro, ni el empleo, ni la tasa de actividad han sufrido cambios grandes.
+
+![](fotos/paro_anual_vs_mat.png)
+![](fotos/tasa_actividad_anual_vs_mat.png)
+![](fotos/tasa_empleo_vs_mat.png)
+
+Entonces que ha pasado??
+
+
+
 # conclusiones. 
 
 Lamentandolo mucho no podemos sacar ninguna conclusión de por qué las notas de selectividad crecen sin parar. Lo que queda claro es que ni el mercado de trabajo ni la oferta se ha visto modificada sensiblemente y que los crecimientos son tremendos. 
