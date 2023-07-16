@@ -3,7 +3,9 @@
 
 En este analisis prentendo encontrar alguna explicación mejor a la que nos ofrecía la noticia del enlace del por qué están subiendo las notas de acceso a la universidad a ritmos escandalosos. 
 
+Un informe revela las razones por las que han subido las notas de Selectividad
 
+En los últimos años la nota media de la Selectividad ha aumentado de un 8,75 sobre 14 en 2015/2016 a un 10,34 en 2021/2022. Este aumento se observa en todas las comunidades autónomas, pero ¿cuáles han sido las razones?.
 
 https://www.ondacero.es/noticias/sociedad/informe-revela-razones-que-han-subido-notas-selectividad_20230614648978f481ae4c0001321a26.html
 
@@ -75,7 +77,7 @@ Todo empezó con esta premisa.
 
 Tras todo el trabajo, lo primero que hacemos es ver que efectivamente las notas de corte de selectividad han incrementado en todas las facultades año tras año. Esto era lo que nos planteaba el articulo del principio. Pero que ha pasado para que ocurra semenjante locura 
 
-![](fotos/crecimiento porcentual selectividad.png)
+![](fotos/crecimiento-porcentual-selectividad.png)
 
 visto así no tiene sentido por eso vamos a ver si ha pasado algo con la oferta de plazas, un motivo claro de una posible subida de notas; a menos plazas y misma demanda de las mismas, mas competencia. 
 
@@ -99,6 +101,19 @@ Entonces que ha pasado??
 
 Lamentandolo mucho no podemos sacar ninguna conclusión de por qué las notas de selectividad crecen sin parar. Lo que queda claro es que ni el mercado de trabajo ni la oferta se ha visto modificada sensiblemente y que los crecimientos son tremendos. 
 Debemos entonces pensar que el nivel académico en la educación obligatoria secundaria y bachiller ha bajado como sugiere el informe....me temo que si. 
+
+"Los investigadores concluyen que la hipótesis de la competición pesa tanto como la de la inflación para explicar la subida
+De esta manera, explican, los datos sobre la Selectividad de casi un millón y medio de estudiantes que la realizaron entre 2013 y 2020,y que muestran que el aumento de las calificaciones se explica a la vez por "la emergencia de un entorno cada vez más competitivo y por una dinámica inflacionaria de las notas fruto de decisiones políticas".
+
+El cambio crucial de una Selectividad a 10 a 14 gracias a la creación de la prueba específica (optativa), la subida simultánea de las notas de corte, el aumento del volumen de estudiantes que se presenta y que además aspira a las notas más altas, han creado un entorno de competitividad que, por ejemplo, ha llevado al 92% en 2022 a realizar una parte de la prueba que se creó en 2010 como opcional."
+
+
+
+# ¿y que nos queda?
+1- Hacer el mismo ejercicio para todas las provincias y ver si en alguna de ellas hay algún patrón diferente y revatir así el articulo.
+2- Utilizar de forma correcta SQL
+3- Poder realizar un pipeline y crear un proyecto con estructura.
+4-automatizar, generar mayor cantidad de funciones
 
 
 
