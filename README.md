@@ -32,7 +32,7 @@ Este documento no fue sencillo ya que el csv requería de mucha limpieza del dat
 Pero claro, los datos de selectividad y las matriculas no decían demasiado, y además tiene sentido que vayan a la par, por lo que busqué mezclarlos con el mercado de trabajo. Con esto pretendo ver que la oferta o demanda de empleo puede generar mayor demanda de acceso a la universidad y por tanto un incremento en la nota media. 
 
 
-En mi trabajo verás un conjunto de carpetas donde está el trabajo de limpieza y analisis. 
+# En mi trabajo verás un conjunto de carpetas donde está el trabajo de limpieza y analisis. 
 
 Carpeta de NOTEBOOKS
 
@@ -50,7 +50,7 @@ Carpeta de NOTEBOOKS
 
 3.1 sql.ipynb: Trabajo de carga y creación de tablas en SQL "lamentablemente no está acabado con exito"
 
-4.1 graficos.ipynb: Graficos que ayudan a la comprensión del resultado final
+4.1 graficos.ipynb: Graficos que ayudan a la comprensión del resultado final y el analisis 
 
 
  Carpeta DATA
@@ -67,7 +67,10 @@ Carpeta de NOTEBOOKS
 2 selectividad
     2.0 dt_selectividad_murcia.csv Datos escrapeados y limpios
 
+# conclusiones. 
 
+Lamentandolo mucho no podemos sacar ninguna conclusión de por qué las notas de selectividad crecen sin parar. Lo que queda claro es que ni el mercado de trabajo ni la oferta se ha visto modificada sensiblemente y que los crecimientos son tremendos. 
+Debemos entonces pensar que el nivel académico en la educación obligatoria secundaria y bachiller ha bajado como sugiere el informe....me temo que si. 
 
 
 
